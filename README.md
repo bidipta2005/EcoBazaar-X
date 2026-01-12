@@ -2,7 +2,7 @@
 
 EcoBazaar is a robust full-stack e-commerce application designed to facilitate a multi-role shopping environment. It features a high-performance **Spring Boot** backend and a responsive **React (Vite)** frontend, complete with dedicated dashboards for Admins, Sellers, and Users.
 
-## 🚀 Key Features
+## Key Features
 
 * **User Roles & Authentication:** Secure Login/Register flows with support for Users, Sellers, and Admins.
 * **Product Management:** * Sellers can `Add`, `Edit`, and manage products via the **Seller Dashboard**.
@@ -15,7 +15,7 @@ EcoBazaar is a robust full-stack e-commerce application designed to facilitate a
 * **Admin Controls:** Comprehensive **Admin Dashboard** for platform oversight.
 * **Image Handling:** Backend support for file uploads (stored in `uploads/`).
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 * **Framework:** React.js (powered by Vite)
